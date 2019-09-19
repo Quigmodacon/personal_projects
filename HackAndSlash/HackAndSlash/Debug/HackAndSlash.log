@@ -1,0 +1,8 @@
+﻿  GameMain.cpp
+e:\hackandslash\hackandslash\gamemain.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\hackandslash\hackandslash\gamemain.cpp(239): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+e:\hackandslash\hackandslash\gamemain.cpp(249): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+e:\hackandslash\hackandslash\gamemain.cpp(283): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\hackandslash\hackandslash\gamemain.cpp(285): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\hackandslash\hackandslash\gamemain.cpp(304): warning C4390: ';': empty controlled statement found; is this the intent?
+  HackAndSlash.vcxproj -> E:\HackAndSlash\Debug\HackAndSlash.exe
