@@ -1,7 +1,7 @@
 #include "IDLE.hpp"
 #include "buildings.hpp"
 
-int main() {
+int main() { // Main game controller
     char menuOption = '*';
 
     int money = 0;
