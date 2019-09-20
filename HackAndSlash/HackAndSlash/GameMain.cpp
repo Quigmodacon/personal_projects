@@ -39,7 +39,7 @@ int main() {
 	int costHealth = 5;
 	int costDamage = 5;
 
-	PlaySound(TEXT("DesertMix.wav"), NULL, SND_FILENAME | SND_LOOP | SND_ASYNC);
+	PlaySound(TEXT("Epic Middle-Eastern Music - Holy War.wav"), NULL, SND_FILENAME | SND_LOOP | SND_ASYNC);
 
 
 
