@@ -4,7 +4,7 @@
 int main() { // Main game controller
     char menuOption = '*';
 
-    int money = 0;
+    double money = 2;
     int multiplier = 1;
 
     while(true) {
